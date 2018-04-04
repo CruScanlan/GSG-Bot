@@ -1,0 +1,29 @@
+{
+  "name": "GSG Bot",
+  "prefix": "!",
+  "ownerIDs":  [
+    "138424630850486272"
+  ],
+  "token": "",
+  "tokentest": "",
+  "emojiRoles": {
+    "12": "Yr 12",
+    "11": "Yr 11",
+    "10": "Yr 10",
+    "9_": "Yr 9",
+    "8_": "Yr 8",
+    "7_": "Yr 7",
+    "GD": "GDG",
+    "Coder": "Coding Enthusiast",
+    "Art": "Art Enthusiast",
+    "Music": "Music Enthusiast"
+  },
+  "channels": {
+    "welcome": "",
+    "bot": ""
+  },
+  "logging": {
+    "logTimeZone": "Australia/Brisbane",
+    "TimeFormat": "D-M-YYYY:H:m:s"
+  }
+}

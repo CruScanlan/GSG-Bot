@@ -1,0 +1,12 @@
+{
+  "name": "gsgbot",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": "Cruzercru",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-format": "git+https://github.com/Cruzercru/bunyan-format.git",
+    "discord.js": "^11.3.0",
+    "moment-timezone": "^0.5.14"
+  }
+}
